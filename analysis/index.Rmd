@@ -8,6 +8,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+##Welcome to my research website.
 * [Teeth growth analysis](teeth.html)
+
+##Programming Challenge.
+
 * [Alex's project](https://amhoover.github.io/myproject/)
