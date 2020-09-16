@@ -10,3 +10,4 @@ editor_options:
 
 Welcome to my research website.
 * [Teeth growth analysis](teeth.html)
+* [Alex's project](https://amhoover.github.io/myproject/)
